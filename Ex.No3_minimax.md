@@ -1,4 +1,4 @@
-![image](https://github.com/Anbuselvan04/AI_Lab_2023-24/assets/119410896/a5d71070-2a64-4260-ba95-c5e143f6820a)# Ex.No: 3  Implementation of Minimax Search
+# Ex.No: 3  Implementation of Minimax Search
 ### DATE :  24/04/2024                                                                       
 ### REGISTER NUMBER : 212221040013
 ### AIM: 
