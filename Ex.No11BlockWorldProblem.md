@@ -55,7 +55,13 @@ Step 10 : Obtain the plan for given problem.<br>
    (:goal (and (on a b))))
 ```
 ## Problem 2
-
+```pddl
+(define (problem pb1)
+   (:domain blocksworld)
+   (:objects a b)
+   (:init (on-table a) (on b a)  (clear b) (arm-empty))
+   (:goal (and (on-table a)(on-table b)(clear a)(clear b)(arm-empty))))
+```
 ### Output/Plan:
 ## Problem 1
 ![image](https://github.com/Anbuselvan04/AI_Lab_2023-24/assets/119410896/d28efac5-d9cd-469b-9e45-0f52116997af)
